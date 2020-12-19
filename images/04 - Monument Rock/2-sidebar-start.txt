@@ -1,0 +1,10 @@
+<body>
+  <!-- -------------------------- -->
+  <!--          Sidebar           -->
+  <!-- -------------------------- -->
+  <div id="sidebar">
+  <h3>Cross Counry Travelers</h3><br>
+  Roman and Sathya<br><br>
+  Our journey is<br>
+  <a href="https://www.instagram.com/crosscountrytravelers/">@crosscountrytravelers</a><br>on Instagram
+  <br><br><hr><br>
